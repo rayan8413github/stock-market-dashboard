@@ -9,7 +9,7 @@ st.title("Stock Market Visualisation Dashboard")
 connection = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    password = "Rayan_sql8413",
+    password = "Password",
     database = "stock_market"
 )
 
